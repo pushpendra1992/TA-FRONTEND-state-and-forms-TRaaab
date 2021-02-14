@@ -1,0 +1,31 @@
+body {
+background-color:whitesmoke;
+}
+
+h2{
+    padding:5px;
+}
+
+.question{
+    width:70%;
+    height: 50px;
+    background-color: wheat;
+}
+
+.answer{
+    width:70%;
+    height:100px;
+    background-color: rgb(217, 222, 255);
+
+}
+
+.box{
+    padding-left: 15%;
+}
+
+.hidden{
+    display: none ;
+}
+.active{
+    background-color: rgb(167, 247, 209);
+}
