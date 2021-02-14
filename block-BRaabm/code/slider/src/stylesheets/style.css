@@ -1,0 +1,30 @@
+.aside{
+    width: 30%;
+    height: 80vh;
+    background-color: aquamarine;
+}
+
+.btn{
+    width: 30%;
+    height: 10vh;
+    background-color: green;
+    position: fixed;
+    top:87vh;
+}
+
+.btntxt{
+    padding-top: 5px;
+    padding-left: 40%;
+    color: wheat;
+   
+}
+
+.nav{
+    padding-top: 15px;
+    padding-left: 40%;
+    font-size: 20px;
+}
+
+.hidden{
+    display: none;
+}
